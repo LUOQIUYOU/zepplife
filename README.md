@@ -8,3 +8,6 @@ zepplife更新步数
 + `step.max_step`：步数区间最大值
 
 执行 `main.py` 文件。 
+
+## 感谢列表
+本项目基于https://github.com/xunichanghuan/mimotion 和 https://github.com/huangshihai/mimotion 项目修改，特此感谢。
